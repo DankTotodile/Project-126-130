@@ -1,0 +1,32 @@
+body
+{
+    background-image:url('bg.jpg') ;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.header
+{
+    color: white;
+    font-family:"Haettenschweiler" ;
+}
+img
+{
+    width: 100px;
+    height: 100px;
+}
+#r
+{
+    margin-right: 1200px ;
+    
+}
+#l
+{
+    margin-left: 1200px ;
+    margin-top: -125px;
+}
+canvas
+{
+    border: 3px solid white;
+    border-radius: 20px;
+    margin-top: 70px;
+}
